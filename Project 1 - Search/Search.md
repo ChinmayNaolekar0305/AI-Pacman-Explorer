@@ -1,8 +1,8 @@
-# Pacman AI Project
+# Project 1 - Search
 
 ## Introduction
 
-This project is part of a CS AI course at [Your University], where I implemented various search algorithms for Pacman scenarios. The goal was to create a Pacman agent capable of finding paths through mazes efficiently and collecting food optimally.
+This project is part of the CS383 Artificial Intelligence course at UMass Amherst, where I implemented various search algorithms for Pacman scenarios. The goal was to create a Pacman agent capable of finding paths through mazes efficiently and collecting food optimally.
 
 ## Project Overview
 

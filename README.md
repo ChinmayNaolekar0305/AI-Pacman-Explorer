@@ -17,3 +17,16 @@ Dive into reinforcement learning, implementing value iteration and Q-learning. A
 
 ## Project 4: Ghostbusters
 Equip Pacman with sensors and delve into Bayesian networks to track invisible ghosts. Implement exact and approximate inference techniques, combining prior knowledge and real-time observations for efficient ghost hunting. Joint Particle Filter Enhance ghost tracking with a joint particle filter, allowing Pacman to consider dependencies between ghost movements. Implement observe-update and time-elapse procedures for accurate tracking in dynamic scenarios.
+
+## Getting Started:
+- Clone the repository.
+- Navigate to the project directory you want to explore.
+- Follow project-specific instructions in each project's README file.
+
+## Contributions:
+Contributions are welcome! Submit pull requests for improvements or additional features.
+
+## Acknowledgments:
+Inspired by the AI course curriculum at UMass Amherst (CS 383), these projects owe gratitude to the educational community, instructors, and contributors who make these materials accessible.
+
+Happy coding and exploring with AI Pacman! 🎮🤖

@@ -5,7 +5,8 @@ Welcome to the AI Pacman Explorer repository! 🚀 This collection represents my
 Embark on a captivating AI adventure with Pacman! This repository encompasses a series of projects that gradually introduce fundamental and advanced concepts in artificial intelligence, offering hands-on experience in creating intelligent agents for Pacman.
 
 ## Projects Included:
-Project 1: Search Algorithms
+
+## Project 1: Search Algorithms
 Implement and master search algorithms guiding Pacman through mazes. Solve problems using uninformed and informed search strategies, establishing the groundwork for subsequent projects.
 
 ## Project 2: Multi-Agent Search

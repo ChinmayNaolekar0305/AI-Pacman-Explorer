@@ -21,9 +21,9 @@ Open a terminal or command prompt and navigate to the project directory.
 
 Execute the following command to run Pacman with specific settings:
 
-bash
-Copy code
+```bash
 python pacman.py -l [layout] -p [Agent] -a [options]
+```
 For example, to run the A* search algorithm with the Manhattan distance heuristic on the bigMaze layout:
 
 bash

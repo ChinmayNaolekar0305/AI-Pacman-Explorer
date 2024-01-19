@@ -26,35 +26,38 @@ python pacman.py -l [layout] -p [Agent] -a [options]
 ```
 For example, to run the A* search algorithm with the Manhattan distance heuristic on the bigMaze layout:
 
-bash
-Copy code
+```bash
 python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic
+```
 
 ## Project Structure
 ## Q1 (4 pts): Reflex Agent
 Improve the ReflexAgent to play respectably. The provided reflex agent code gives examples of methods querying the GameState for information. A capable reflex agent should consider both food locations and ghost locations to perform well.
 
-bash
-Copy code
+```bash
 python pacman.py -p ReflexAgent -l testClassic
+```
+
 ## Q2 (5 pts): Minimax
 Implement an adversarial search agent in the MinimaxAgent class. Your minimax agent should work with any number of ghosts and expand the game tree to an arbitrary depth.
 
-bash
-Copy code
+```bash
 python pacman.py -p MinimaxAgent -l minimaxClassic -a depth=4
+```
+
 ## Q3 (5 pts): Alpha-Beta Pruning
 Create a new agent, AlphaBetaAgent, using alpha-beta pruning for more efficient exploration of the minimax tree.
 
-bash
-Copy code
+```bash
 python pacman.py -p AlphaBetaAgent -a depth=3 -l smallClassic
+```
+
 ## Q4 (5 pts): Expectimax
 Implement the ExpectimaxAgent to model probabilistic behavior of agents who may make suboptimal choices.
 
-bash
-Copy code
+```bash
 python pacman.py -p ExpectimaxAgent -l minimaxClassic -a depth=3
+```
 ## Q5 (6 pts): Evaluation Function
 Write a better evaluation function for Pacman in the provided betterEvaluationFunction.
 
